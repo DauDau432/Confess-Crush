@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Đậu dành tặng Thảo",
-    introTitle: 'Thảo à',
+    titleWeb: "Duyy dành tặng Vyyy",
+    introTitle: 'Vyyy à',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -11,10 +11,10 @@ const CONFIG = {
     btnYes: 'Yêu lắm 💝',
     btnNo: 'Không nha 😂',
     question: 'Trên thế giới hơn 7 tỉ người mà sao Thảo lại yêu mình 🤣',
-    btnReply: '💖 Gửi cho Đậu 💖',
+    btnReply: '💖 Gửi cho TQDuyy 💖',
     reply: 'Yêu thì yêu mà không yêu thì yêu 😋',
-    mess: 'Đậu biết mà 🥰. Yêu Thảo nhiều nhiều 😘😘',
+    mess: 'Duyyy biết mà 🥰. Yêu Vyyy nhiều nhiều 😘😘',
     messDesc: 'Anh hứa , sau này có tiền anh sẽ nuôi em thành HEO.',
     btnAccept: 'Okiiiii lun 🥰',
-    messLink: 'https://github.com/DauDau432/Confess-Crush' //link mess của các bạn.
+    messLink: 'https://www.facebook.com/profile.php?id=1124333038&mibextid=2JQ9oc ' //link mess của các bạn.
 }
